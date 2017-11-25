@@ -1,0 +1,12 @@
+node_modules
+dist
+.idea
+coverage
+.nyc_output
+log
+*.log
+.DS_Store
+*.log.*
+*.DS_Store
+highway.backend
+static/webapp

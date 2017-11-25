@@ -1,0 +1,10 @@
+[ignore]
+.*/bin/.*
+.*/config/.*
+.*/data/.*
+.*/docs/.*
+.*/node_modules/.*
+.*/static/.*
+
+[options]
+esproposal.export_star_as=enable
